@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+print('my dog name is zemer')
+
 
 # יצירת נתונים לדוגמה
 np.random.seed(42)
