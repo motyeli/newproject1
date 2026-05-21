@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-print('my name is moty')
+print('my name is hadar')
 
 
 # יצירת נתונים לדוגמה
